@@ -22,3 +22,4 @@
 - hosts: kirokus
   roles:
     - "sync-server"
+    - "motion-server"
