@@ -1,4 +1,7 @@
+---
+
 #
-# Common configuration for all roles 
+# Common configuration for all roles
 #
 
+hostname: unconfigured-kiroku
