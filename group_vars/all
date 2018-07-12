@@ -5,3 +5,4 @@
 #
 
 hostname: unconfigured-kiroku
+plex_server_enabled: false

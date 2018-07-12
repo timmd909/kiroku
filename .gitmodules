@@ -7,3 +7,6 @@
 [submodule "roles/motion-server"]
 	path = roles/motion-server
 	url = git@github.com:timmd909/izanagi-role-motion-server.git
+[submodule "roles/plex-server"]
+	path = roles/plex-server
+	url = git@github.com:timmd909/izanagi-role-plex-server.git
